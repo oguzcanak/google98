@@ -1,0 +1,68 @@
+.logo{
+display: flex;
+justify-content: center;
+clear: both;
+}
+
+.search{
+width: 90%;
+height: 75x;
+background:rgb(241, 234, 234);
+margin: 10px auto;
+
+}
+.search p{
+    text-align: center;
+    padding: 0px 0px;
+    margin-bottom: 0;
+}
+.search .input-textbox{
+    display: flex;
+    justify-content: center;
+    clear: both;
+    padding-top: 0;
+}
+.search .submits{
+    display:flex;
+    justify-content: center;
+    clear: both;    
+}
+.altparcalar{
+    width: 90%;
+    margin: 0px auto;
+    display: flex;
+    text-align: center;
+}
+.altparcalar p{
+    text-align: center;
+    margin: 1px 0px;
+}
+.altparcalar .solparca{
+    background: #7EE5DA;
+    width: 40%;
+    height: 80px;
+    margin-right: 2px;
+    padding: 1px;
+}
+.altparcalar .solparca p{
+    margin-top: 10px;
+}
+.altparcalar .orta{
+    background: #70ccc2;
+    width: 20%;
+    /* display: flex; */
+    /* justify-content: center; */
+    margin-right: 2px;
+    height: 80px;
+    padding: 1px;
+}
+.altparcalar .sagparca p{
+    font-size: 10px;
+    margin-top: 5px;
+}
+.altparcalar .sagparca{
+    background-color: #62B3AA;
+    width: 40%;
+    height:80px;
+    padding: 1px;
+}
